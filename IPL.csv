@@ -1,0 +1,21 @@
+match_id,date,venue,stage,team1,team2,toss_winner,toss_decision,first_ings_score,second_ings_score,match_winner,won_by,margin,player_of_the_match,top_scorer,highscore,best_bowling,best_bowling_figure
+1,2022-03-26,Mumbai,League,CSK,KKR,KKR,field,178,182,KKR,Runs,4,Andre Russell,Shubman Gill,85,Varun Chakravarthy,4--26
+2,2022-03-27,Delhi,League,RCB,PBKS,RCB,field,191,188,RCB,Runs,3,Glenn Maxwell,Ruturaj Gaikwad,82,Harshal Patel,3--21
+3,2022-03-28,Chennai,League,MI,GT,GT,field,178,181,GT,Wickets,4,Hardik Pandya,David Miller,77,Lockie Ferguson,3--18
+4,2022-03-29,Bengaluru,League,RR,LSG,RR,bat,177,174,RR,Runs,3,Jos Buttler,Jos Buttler,95,Bumrah,2--24
+5,2022-04-01,Mumbai,League,KKR,RCB,RCB,bat,169,172,RCB,Wickets,5,Faf du Plessis,Faf du Plessis,88,Harshal Patel,4--22
+6,2022-04-02,Ahmedabad,League,GT,RR,RR,field,175,179,RR,Wickets,3,Sanju Samson,Sanju Samson,81,Rashid Khan,3--20
+7,2022-04-05,Delhi,League,PBKS,CSK,CSK,field,185,186,CSK,Wickets,4,Ruturaj Gaikwad,Ruturaj Gaikwad,97,Deepak Chahar,3--17
+8,2022-04-06,Chennai,League,MI,CSK,CSK,field,181,184,CSK,Wickets,2,MS Dhoni,MS Dhoni,58,Deepak Chahar,4--27
+9,2022-04-10,Bengaluru,League,RCB,MI,MI,field,170,173,MI,Wickets,3,Suryakumar Yadav,Suryakumar Yadav,90,Trent Boult,3--25
+10,2022-04-11,Ahmedabad,League,GT,LSG,GT,bat,198,194,GT,Runs,4,Shubman Gill,Shubman Gill,103, Rashid Khan,3--29
+11,2022-04-13,Mumbai,League,KKR,CSK,CSK,field,177,180,CSK,Wickets,3,Devon Conway,Devon Conway,83,Matheesha Pathirana,3--19
+12,2022-04-14,Delhi,League,PBKS,RR,RR,field,168,170,RR,Wickets,2,Sanju Samson,Sanju Samson,86,Trent Boult,2--17
+13,2022-04-18,Chennai,League,CSK,RCB,RCB,field,182,179,RCB,Runs,3,Virat Kohli,Virat Kohli,99,Harshal Patel,4--26
+14,2022-04-19,Hyderabad,League,SRH,MI,MI,bat,174,177,MI,Wickets,3,Abhishek Sharma,Abhishek Sharma,69,Jasprit Bumrah,3--18
+15,2022-04-22,Mumbai,League,KKR,GT,GT,field,191,194,GT,Wickets,5,Shubman Gill,Shubman Gill,96,Rashid Khan,4--24
+16,2022-04-23,Jaipur,League,RR,CSK,CSK,field,185,188,CSK,Wickets,4,Ruturaj Gaikwad,Ruturaj Gaikwad,101,Maheesh Theekshana,3--20
+17,2022-04-26,Ahmedabad,League,GT,RCB,RCB,field,176,172,GT,Runs,4,David Miller,David Miller,94,Lockie Ferguson,3--21
+18,2022-04-27,Chennai,League,CSK,PBKS,CSK,bat,195,191,CSK,Runs,4,MS Dhoni,Shikhar Dhawan,73,Sam Curran,2--18
+19,2022-05-01,Delhi,League,LSG,RR,RR,field,166,170,RR,Wickets,4,Jos Buttler,Jos Buttler,91,Prasidh Krishna,3--22
+20,2022-05-03,Mumbai,League,MI,RCB,RCB,field,172,176,RCB,Wickets,4,Glenn Maxwell,Glenn Maxwell,86,Harshal Patel,3--26
